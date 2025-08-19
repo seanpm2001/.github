@@ -1,3 +1,6 @@
+
+Note: this code of conduct is in the process of being deprecated. The new one (under development) is located here: [:octocat: `Seanpm2001 Code of Conduct`](https://github.com/seanpm2001/Seanpm2001_Code-of-Conduct/)
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
